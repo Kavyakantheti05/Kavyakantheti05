@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ⚡About Me:
 🎓 B.Tech Electronics & Communication Engineering Student<br>💻 Aspiring VLSI Engineer passionate about RTL Design and Digital Electronics<br>🛠️ Skilled in Verilog, SystemVerilog, VLSI Tools, FPGA, and Digital Design<br>📈 Currently building practical VLSI projects and exploring Design Verification<br>🌱 Always learning, exploring, and growing in the field of Semiconductor Technology
 
 
